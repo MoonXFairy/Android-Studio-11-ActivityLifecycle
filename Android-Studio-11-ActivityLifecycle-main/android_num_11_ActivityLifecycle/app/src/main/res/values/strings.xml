@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android_num_11_ActivityLifecycle</string>
+    <string name="Hw11_pageA_title">A 頁面</string>
+    <string name="Hw11_pageB_title">B 頁面</string>
+    <string name="Hw11_AtoB">切換 B 頁面</string>
+    <string name="Hw11_BtoA">切換 A 頁面</string>
+</resources>
